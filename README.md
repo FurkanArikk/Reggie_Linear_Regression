@@ -1,2 +1,2 @@
 # Reggie_Linear_Regression
-Reggie Linear Regression
+Its a project from codeacademy.com data scientist path
